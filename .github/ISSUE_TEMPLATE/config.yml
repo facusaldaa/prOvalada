@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🤝 Community Discussion
+    url: https://github.com/facusaldaa/prOvalada/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: 📖 Documentation
+    url: https://github.com/facusaldaa/prOvalada/blob/main/README.md
+    about: Check the documentation for API usage and examples
+  - name: 🔒 Security Issues
+    url: https://github.com/facusaldaa/prOvalada/security/advisories/new
+    about: Report security vulnerabilities privately
